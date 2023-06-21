@@ -20,3 +20,4 @@ Exercício do Curso DevQuest para treinar Flexbox 📏📐
 (praticando HTML e CSS)...
 
 #
+# profile-card
